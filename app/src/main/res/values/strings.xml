@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RickAndMorty2</string>
+    <string name="name_text">Name:</string>
+    <string name="galaxy_text">Galaxy:</string>
+    <string name="status_text">Status:</string>
+    <string name="gender_text">Gender:</string>
+    <string name="location_text">Location Name:</string>
+    <string name="ep_size_text">EP Size:</string>
+</resources>
